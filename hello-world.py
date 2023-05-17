@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 
-def helo():    
-    """Print "Helo World" and return None."""
-    print("Helo World")
+def hello():    
+    """Print "Hello World" and return None."""
+    print("Hello World")
 
-helo()
-
-helo()
-helo()
+hello()
